@@ -27,4 +27,6 @@ MySQL Workbench: 8.0.34
 <img src="https://github.com/ahj0111/comento_API/assets/156791481/bd385464-0110-49a9-b2ee-ab3873f9989e" width="30%" height="30%">    
 
 
+## 2주차 과제 : 인터페이스 가이드 문서 작성
+[SW 활용 현황 API가이드문서.docx](https://github.com/ahj0111/comento_API/files/14051153/SW.API.docx)
 
