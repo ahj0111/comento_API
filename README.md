@@ -29,4 +29,16 @@ MySQL Workbench: 8.0.34
 
 ## 2주차 과제 : 인터페이스 가이드 문서 작성
 [SW 활용 현황 API가이드문서.docx](https://github.com/ahj0111/comento_API/files/14051153/SW.API.docx)
+## 3주차 과제 : 간단한 Restful API 구현
+3.1 스프링부트 개발 환경 셋팅 - 완료  
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/4ffb2750-7624-4e34-be7f-8c7bdc311255" width="50%" height="50%">
 
+3.2 통계 API DB, TABLE 생성 - 완료  
+
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/0885c1e2-8116-4366-939c-9fa1283fdc7e" width="35%" height="35%">
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/d33be9ec-636b-4a9f-8b66-dc3091d8f69a" width="30%" height="30%">
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/c2e1fc89-4e9f-4fb2-97f0-6fc88a96d37c" width="30%" height="30%">
+
+3.3 스프링부트,mybatis,mariadb 연동 - 완료  
+
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/fcd8264e-2834-4b4b-b378-014a47ed0a53">
