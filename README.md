@@ -31,7 +31,7 @@ MySQL Workbench: 8.0.34
 [SW 활용 현황 API가이드문서.docx](https://github.com/ahj0111/comento_API/files/14051153/SW.API.docx)
 ## 3주차 과제 : 간단한 Restful API 구현
 3.1 스프링부트 개발 환경 셋팅 - 완료  
-<img src="https://github.com/ahj0111/comento_API/assets/156791481/4ffb2750-7624-4e34-be7f-8c7bdc311255" width="50%" height="50%">
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/4ffb2750-7624-4e34-be7f-8c7bdc311255" width="30%" height="30%">
 
 3.2 통계 API DB, TABLE 생성 - 완료  
 
