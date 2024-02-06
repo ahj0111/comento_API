@@ -42,3 +42,6 @@ MySQL Workbench: 8.0.34
 3.3 스프링부트,mybatis,mariadb 연동 - 완료  
 
 <img src="https://github.com/ahj0111/comento_API/assets/156791481/fcd8264e-2834-4b4b-b378-014a47ed0a53">
+## 4주차 과제 : API구축   
+4.1 SQL   
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/4febdf80-8542-4f40-b08f-32926b79a2c3" width="30%" height="30%">
