@@ -45,7 +45,7 @@ MySQL Workbench: 8.0.34
 
 ## 4주차 과제 : API구축   
 4.1 SQL   
-<img src="https://github.com/ahj0111/comento_API/assets/156791481/14b9d5af-bd7b-44ca-936f-671796ea736a" width="30%" height="30%">   
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/14b9d5af-bd7b-44ca-936f-671796ea736a" width="50%" height="50%">   
 4.2 결과   
 1) 월별 접속자 수   
 <img src="https://github.com/ahj0111/comento_API/assets/156791481/19706d49-87d6-446e-920a-014783fe9be1" width="30%" height="30%">  
