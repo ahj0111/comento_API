@@ -45,7 +45,7 @@ MySQL Workbench: 8.0.34
 
 ## 4주차 과제 : API구축   
 4.1 SQL   
-<img src="https://github.com/ahj0111/comento_API/assets/156791481/4febdf80-8542-4f40-b08f-32926b79a2c3" width="30%" height="30%">   
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/14b9d5af-bd7b-44ca-936f-671796ea736a" width="30%" height="30%">   
 4.2 결과   
 1) 월별 접속자 수   
 <img src="https://github.com/ahj0111/comento_API/assets/156791481/19706d49-87d6-446e-920a-014783fe9be1" width="30%" height="30%">  
@@ -54,6 +54,7 @@ MySQL Workbench: 8.0.34
 <img src="https://github.com/ahj0111/comento_API/assets/156791481/f028c216-ffed-4e0e-81fb-5bffe50f1570" width="20%" height="20%">  
 
 3) 평균 하루 로그인 수   
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/44a7a0a2-f712-4b37-8490-4dde49db64b4" width="20%" height="20%">
 
 4) 휴일을 제외한 로그인 수   
 
