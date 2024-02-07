@@ -51,11 +51,11 @@ MySQL Workbench: 8.0.34
 <img src="https://github.com/ahj0111/comento_API/assets/156791481/19706d49-87d6-446e-920a-014783fe9be1" width="30%" height="30%">  
 
 2) 일자별 접속자 수   
-<img src="https://github.com/ahj0111/comento_API/assets/156791481/f028c216-ffed-4e0e-81fb-5bffe50f1570" width="20%" height="20%">  
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/f028c216-ffed-4e0e-81fb-5bffe50f1570" width="10%" height="10%">  
 
 3) 평균 하루 로그인 수   
 
 4) 휴일을 제외한 로그인 수   
 
 5) 부서별 월별 로그인 수   
-<img src="https://github.com/ahj0111/comento_API/assets/156791481/cbba3218-38a4-4a40-81f9-5ad25ff90889" width="20%" height="20%">  
+<img src="https://github.com/ahj0111/comento_API/assets/156791481/cbba3218-38a4-4a40-81f9-5ad25ff90889" width="10%" height="10%">  
