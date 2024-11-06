@@ -60,4 +60,4 @@ MySQL Workbench: 8.0.34
 
 5) 부서별 월별 로그인 수   
 <img src="https://github.com/ahj0111/comento_API/assets/156791481/cbba3218-38a4-4a40-81f9-5ad25ff90889" width="20%" height="20%">  
-end
+end end
